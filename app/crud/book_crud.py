@@ -40,7 +40,7 @@ def db_create_book(book_create: BookCreate) -> BookRead:
 
 def db_list_books() -> List[BookRead]:
     data = _read_storage()
-    book_list = []
+    book_list: List[BookRead] = []
     for book in data:
         book_list.append(BookRead(**book))
     return book_list

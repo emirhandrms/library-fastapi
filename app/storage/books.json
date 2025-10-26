@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A book about writing clean code.",
+    "published_year": 2008,
+    "id": 1
+  },
+  {
+    "title": "\u00c7al\u0131nan Dikkat - Neden Odaklanam\u0131yoruz?",
+    "author": "Johann Hari",
+    "description": "Johann Hari'nin \u00c7al\u0131nan Dikkat eseri, modern insan\u0131n odaklanma yetisini neden kaybetti\u011fini ki\u015fisel bir kusurdan \u00f6te, sistemli bir sald\u0131r\u0131 olarak ortaya koyuyor. Artan h\u0131z, uyku sorunlar\u0131 ve bizi ekrana hapsetmek i\u00e7in tasarlanm\u0131\u015f teknolojiler, yazar\u0131n i\u015faret etti\u011fi temel nedenlerden sadece birka\u00e7\u0131.",
+    "published_year": 2008,
+    "id": 2
+  }
+]
