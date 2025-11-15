@@ -50,3 +50,4 @@ coverage.xml
 # OS files
 .DS_Store
 Thumbs.db
+app/utils/db_parser.py
